@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomImage">
+        <attr name="shape" format="integer" />
+        <attr name="border_size" format="dimension" />
+        <attr name="border_color" format="color" />
+        <attr name="fill_color" format="color" />
+    </declare-styleable>
+</resources>
